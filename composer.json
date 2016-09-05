@@ -1,0 +1,23 @@
+{
+    "name": "403studio/support",
+    "description": "简单便捷的开发小工具",
+    "minimum-stability": "dev",
+    "license": "proprietary",
+    "homepage": "https://github.com/403studio/Support",
+    "authors": [
+        {
+            "name": "hao.huang",
+            "email": "hao.huang@aliyun.com",
+            "homepage": "http://www.403studio.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+  	   "psr-4": {
+  		    "Support\\": "src"
+  	   }
+    }
+}
